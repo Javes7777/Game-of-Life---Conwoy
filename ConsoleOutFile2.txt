@@ -1,0 +1,3 @@
+Enter the name of the input file: inputFile2.txt
+ERROR: ignoring extra characters in line 14
+ERROR: organisms are present in the border of the board, please correct your input file
